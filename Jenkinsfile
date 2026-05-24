@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "aryanraj47/task-manager"
+        IMAGE_NAME = "aryan7890/task-manager"
     }
 
     stages {
